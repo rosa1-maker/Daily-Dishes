@@ -7,11 +7,16 @@ By -;
  * Phelisia Jeruto
  * Habiba Hassan
  * Teresa Wanjiku
- ## Set up instractions
+ ## Set up instructions
 * Open Github account.
 * Fork our repository.
 * Git clone our repository.
 * Send a pull request.
+### Technologies Used
+* HTML
+* CSS
+* JAVASCRIPT
+* JQUERY
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
  ## Contacts
