@@ -1,7 +1,7 @@
-<!-- # The Four Square
+# The Four Square
 ## Description
 Daily Dishes is a web page that makes it easier for users to order food at affordable prices and with quick delivery.
-### Authors information
+<!-- ### Authors information
 By -; * Belinda Okumu
       * phelisia Jeruto
       * Habiba Hassan
