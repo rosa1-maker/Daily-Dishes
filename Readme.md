@@ -4,13 +4,14 @@ Daily Dishes is a web page that makes it easier for users to order food at affor
  ### Authors information
 By -;
  * Belinda Okumu
- * phelisia Jeruto
+ * Phelisia Jeruto
  * Habiba Hassan
  * Teresa Wanjiku
- <!-- ## Set up instractions
+ ## Set up instractions
 * Open Github account.
+* Fork our repository.
 * Git clone our repository.
-* Send a pull request. -->
+* Send a pull request.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
  ## Contacts
