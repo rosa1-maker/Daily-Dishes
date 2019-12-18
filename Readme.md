@@ -2,10 +2,11 @@
 ## Description
 Daily Dishes is a web page that makes it easier for users to order food at affordable prices and with quick delivery.
  ### Authors information
-By -; * Belinda Okumu
-      * phelisia Jeruto
-      * Habiba Hassan
-      * Teresa Wanjiku
+By -;
+ * Belinda Okumu
+ * phelisia Jeruto
+ * Habiba Hassan
+ * Teresa Wanjiku
  <!-- ## Set up instractions
 * Open Github account.
 * Git clone our repository.
@@ -17,4 +18,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 * Email: belindashirkiz@gmail.com
 # Licence
 Licensed under the  [MIT license](LICENSE).
-Copyright (c) 2019 The Four Square --> -->
+Copyright (c) 2019 The Four Square
