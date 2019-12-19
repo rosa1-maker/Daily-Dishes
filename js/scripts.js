@@ -37,10 +37,7 @@ function validateForm() {
       var pizzaPick = parseInt($('#delivery').val());
       var price = sizePrices[pizzaSize - 1];
       var DeliveryCost = deliveryPrices[pizzaPick - 1];
-      var ToppingsCost = priceToppings[pizzaToppings-1];
-      var crustCost = crustPrices[priceCrust-1]
-      var topNames = toppingsName[pizzaTop-1]
-      var crustName = crustNames[priceCrust-1] 
+       
   
       newOrder = new Results(
         pizzaType,
