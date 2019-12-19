@@ -1,5 +1,4 @@
-/*!
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ /* Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -58,7 +57,7 @@ body {
   text-align: left;
   background-color: #fff;
 }
-
+ hr{
   box-sizing: content-box;
   height: 0;
   overflow: visible;
@@ -5538,11 +5537,11 @@ a.badge-dark:focus, a.badge-dark.focus {
   -ms-flex-direction: row;
   flex-direction: row;
 }
-
+.list-group-horizontal .list-group-item:first-child {
   border-bottom-right-radius: 0.25rem;
 }
 
-=======
+.list-group-horizontal .list-group-item:last-child{
   border-top-right-radius: 0.25rem;
   border-bottom-left-radius: 0;
 }
@@ -5561,7 +5560,6 @@ a.badge-dark:focus, a.badge-dark.focus {
   border-left-width: 1px;
 }
 
->>>>>>> 347a73d08b4332dd5c100be7bd3fa399fc70adbc
 @media (min-width: 576px) {
   .list-group-horizontal-sm {
     -ms-flex-direction: row;
